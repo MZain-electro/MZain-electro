@@ -1,7 +1,8 @@
 
 [![Header](https://github.com/MZain-electro/MZain-electro/blob/main/neural.jpeg "Header")](https://www.linkedin.com/in/zain-mohammad/)
-view rawheader hosted with ❤ by GitHub
-### Hi there 👋
+<h1 align='center'> Hi! :wave:</h1>
+<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
+
 
 <!--
 **MZain-electro/MZain-electro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
