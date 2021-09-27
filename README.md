@@ -24,14 +24,24 @@ My name is Mohammad Zain and I'm an engineering undergraduate at Aligarh Muslim 
 ![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ## 📈 GitHub Stats</br></br>
-<p>
+<p align="center">
 <a href="https://github.com/MZain-electro/MZain-electro">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MZain-electro&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
+  <br>
+  <br>
 <a href="https://github.com/MZain-electro/MZain-electro">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MZain-electro&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Zain's GitHub Stats" />
 </a>
+  <br>
 </p>
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/MZain-electro/count.svg" />
+</p>
+
 <!--**# Hello, folks! <img src="https://github.com/MZain-electro/MZain-electro/blob/main/wave.gif" width="30px">-->
 <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
