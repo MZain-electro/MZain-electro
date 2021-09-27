@@ -1,7 +1,7 @@
 
 [![Header](https://github.com/MZain-electro/MZain-electro/blob/main/neural.jpeg "Header")](https://www.linkedin.com/in/zain-mohammad/)
 <h1 align='center'> Hi! :wave:</h1>
-<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
+<img src="https://github.com/MZain-electro/MZain-electro/blob/main/circuit.gif" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen>
 
 
 <!--
