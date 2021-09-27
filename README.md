@@ -16,14 +16,14 @@ My name is Mohammad Zain and I'm an engineering undergraduate at Aligarh Muslim 
 <!-- Actual text -->
 
 <!-- Icons -->
-## 👨‍💻 Technology & Tools
+## 👨‍💻 Technology & Tools</br>
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=whit)
 ![](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 ![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-## 📈 GitHub Stats</br></br>
+## 📈 GitHub Stats</br>
 <p align="center">
   <a href="https://github.com/MZain-electro/MZain-electro">
    <img src="https://github-readme-stats.vercel.app/api?username=MZain-electro&hide_border=true&show_icons=true" alt="edisonlee55's github stats"></a>
