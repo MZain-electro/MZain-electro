@@ -25,14 +25,14 @@ My name is Mohammad Zain and I'm an engineering undergraduate at Aligarh Muslim 
 ![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ## 📈 GitHub Stats</br></br>
 <p align="center">
-<a href="https://github.com/MZain-electro/MZain-electro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MZain-electro&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
+  <a href="https://github.com/MZain-electro/MZain-electro">
+   <img src="https://github-readme-stats.vercel.app/api?username=MZain-electro&hide_border=true&show_icons=true" alt="edisonlee55's github stats"></a>
   <br>
   <br>
 <a href="https://github.com/MZain-electro/MZain-electro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MZain-electro&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Zain's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MZain-electro&hide_border=true&show_icons=true" alt="edisonlee55's github stats" />
 </a>
+  <br>
   <br>
 </p>
 
