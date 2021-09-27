@@ -1,5 +1,5 @@
 
-[![Header](https://raw.githubusercontent.com/MZain-electro/MZain-electro/MZain-electrp/readme_header.png "Header")](https://www.linkedin.com/in/zain-mohammad/)
+[![Header](https://github.com/MZain-electro/MZain-electro/blob/main/neural.jpeg "Header")](https://www.linkedin.com/in/zain-mohammad/)
 view rawheader hosted with ❤ by GitHub
 ### Hi there 👋
 
