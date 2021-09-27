@@ -1,6 +1,5 @@
 
-[![Header](https://github.com/MZain-electro/MZain-electro/blob/main/neural.jpeg "Header")](https://www.linkedin.com/in/zain-mohammad/)
-[![Header](https://github.com/MZain-electro/MZain-electro/blob/main/circuit.gif "Header")](https://www.linkedin.com/in/zain-mohammad/)
+[![Header](https://github.com/MZain-electro/MZain-electro/blob/main/giphy.gif "Header")](https://www.linkedin.com/in/zain-mohammad/)
 <h1 align='center'> Hi! :wave:</h1>
 <img src="https://github.com/MZain-electro/MZain-electro/blob/main/circuit.gif" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen>
 
