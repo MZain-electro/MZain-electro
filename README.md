@@ -1,24 +1,35 @@
-
-[![Header](https://github.com/MZain-electro/MZain-electro/blob/main/giphy.gif "Header")](https://www.linkedin.com/in/zain-mohammad/)
+<h1 align='center'><img src="https://github.com/MZain-electro/MZain-electro/blob/main/Mohammad%20Zain.png "></h1>
+<p align='center'>
+<a href="https://www.linkedin.com/in/zain-mohammad/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="zain11.astro@gmail.com"><img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://myanimelist.net/profile/zain17"><img height="30" src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white"></a>
+  
 <h1 align='center'> Hi! <img src="https://github.com/MZain-electro/MZain-electro/blob/main/wave.gif" width="30px"></h1>
+
+
+
+  
+</p>  
+ 
+ 
 My name is Mohammad Zain and I'm an engineering undergraduate at Aligarh Muslim University, majoring in electronics engineering.</br>
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
-
 <!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://www.linkedin.com/in/heinz-martin/
-&#x1f4c8;GitHub Stats</br></br>
+## 👨‍💻 Technology & Tools
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=whit)
+![](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
+![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+## 📈 GitHub Stats</br></br>
 <p>
 <a href="https://github.com/MZain-electro/MZain-electro">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MZain-electro&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/MZain-electro/MZain-electro">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MZain-electro&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Zain's GitHub Stats" />
 </a>
 </p>
 <!--**# Hello, folks! <img src="https://github.com/MZain-electro/MZain-electro/blob/main/wave.gif" width="30px">-->
