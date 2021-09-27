@@ -1,9 +1,8 @@
 
 [![Header](https://github.com/MZain-electro/MZain-electro/blob/main/giphy.gif "Header")](https://www.linkedin.com/in/zain-mohammad/)
-<h1 align='center'> Hi! :wave:</h1>
+<h1 align='center'> Hi! <img src="https://github.com/MZain-electro/MZain-electro/blob/main/wave.gif" width="30px"></h1>
 <img src="https://github.com/MZain-electro/MZain-electro/blob/main/circuit.gif" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen>
-
-
+<!--**# Hello, folks! <img src="https://github.com/MZain-electro/MZain-electro/blob/main/wave.gif" width="30px">-->
 <!--
 **MZain-electro/MZain-electro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
