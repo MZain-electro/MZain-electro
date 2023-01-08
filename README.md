@@ -12,7 +12,14 @@
 </p>  
  
  
-My name is Mohammad Zain and I'm an engineering undergraduate at Aligarh Muslim University, majoring in electronics engineering.</br>
+
+Hello and welcome to my GitHub page! My name is Mohammad Zain and I am a final year student in electronics engineering at ALigarh Muslim University.
+
+As a student specializing in Verilog and VLSI design, I have a strong foundation in the principles and practices of digital logic design and integrated circuit design. My current focus is on the design and implementation of hardware accelerators for machine learning and artificial intelligence applications using PyTorch, a popular deep learning framework.
+
+In this repository, you will find my work on Verilog-based VLSI architectures for machine learning and artificial intelligence, including the Verilog code for my designs, simulation and evaluation results, and a detailed project report.
+
+I am always looking for new opportunities to learn and grow as an engineer, and I welcome any feedback or suggestions you may have. Thank you for visiting my page!</br>
 <!-- Actual text -->
 
 <!-- Icons -->
